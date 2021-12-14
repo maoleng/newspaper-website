@@ -1,5 +1,5 @@
-<h2 align = "center">Newspaper website</h2>
-<h4>Description:</h4>
+<h1 align = "center">Newspaper website</h1>
+<h3>Description:</h3>
 Use:
 <ul>
 	<li>HTML</li>
@@ -8,5 +8,6 @@ Use:
 	<li>PHP</li>
 </ul>
 <br>
+<h3>How the website looks</h3>
 
-<img src = "https://github.com/maoleng/media/blob/huuloc/skip_ytb_ads.gif?raw=true">
+<img src = "https://github.com/maoleng/media/blob/huuloc/newspaper-website.gif?raw=true">
