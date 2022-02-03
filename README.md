@@ -3,7 +3,7 @@
 <h2>Instructor: Online teacher <a href = "https://github.com/J2TeamNNL">Nguyễn Nam Long</a></h2>
 <h3>Done at: 14/12/2021</h3>
 <h3>Description:</h3>
-<h3>I use:</h3
+<h3>I use:</h3>
 <ul>
 	<li>HTML</li>
 	<li>CSS</li>
